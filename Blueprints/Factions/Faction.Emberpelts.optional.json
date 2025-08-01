@@ -1,0 +1,10 @@
+{
+  "FactionSpec": {
+    // "Needs#append": [
+    // "BlockDecoration"
+    // ],
+    "Goods#append": [
+      "TreatedPlank"
+    ]
+  }
+}

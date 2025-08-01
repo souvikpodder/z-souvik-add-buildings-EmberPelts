@@ -1,0 +1,10 @@
+{
+  "PrefabGroupSpec": {
+    "Id": "Buildings.Folktails",
+    "Paths#append": [
+      "Buildings/Landscaping/Floodgate.Flat/Floodgate.Flat.Emberpelts",
+      "Buildings/Landscaping/Floodgate.Flat/DoubleFloodgate.Flat.Emberpelts",
+      "Buildings/Landscaping/Floodgate.Flat/TripleFloodgate.Flat.Emberpelts",
+    ]
+  }
+}

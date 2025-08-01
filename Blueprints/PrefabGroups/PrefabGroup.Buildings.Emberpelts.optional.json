@@ -1,0 +1,96 @@
+{
+  "PrefabGroupSpec": {
+    "Id": "Buildings.Emberpelts",
+    "Paths#append": [
+      //powerTunnel
+      // "Buildings/Landscaping/Shafnel/Shafnel.IronTeeth",
+      //ladder
+      //"Tobbert/Ladder.Folktails",
+      //power
+      // "Tobbert/Prefabs/StraightToVerticalPowerShaft.Folktails",
+      // "Tobbert/Prefabs/UniversalPowerShaft.Folktails",
+      //trains
+      // "Tobbert/Prefabs/Tracks/TrackOneWay.Folktails",
+      // "Tobbert/Prefabs/Tracks/TrackCrossing.Folktails",
+      // "Tobbert/Prefabs/Tracks/TrackHill1x2.Folktails",
+      // "Tobbert/Prefabs/Tracks/TrackCorner1x1.Folktails",
+      // "Tobbert/Prefabs/Tracks/TrackCorner2x2.Folktails",
+      // "Tobbert/Prefabs/Tracks/TrackTIntersection1x1.Folktails",
+      // "Tobbert/Prefabs/Tracks/TrackTIntersection2x3.Folktails",
+      // "Tobbert/Prefabs/Tracks/TrackXIntersection1x1.Folktails",
+      // "Tobbert/Prefabs/Tracks/TrackXIntersection3x3.Folktails",
+      // "Tobbert/Prefabs/Tracks/TrackRIntersection2x3.Folktails",
+      // "Tobbert/Prefabs/Buildings/TrainYard.Folktails",
+      // "Tobbert/Prefabs/Buildings/WaitingStation.Folktails",
+      // "Tobbert/Prefabs/Buildings/GoodsStation.Folktails",
+      //path extension
+      // "Knatte/Buildings/Paths/SmallGate/DecoSmallGate.Folktails",
+      // "Knatte/Buildings/Paths/SmallGate/SmallGate.Folktails",
+
+      "Knatte/Buildings/Paths/Bridges/TE_Bridge_1x1.Folktails",
+      "Knatte/Buildings/Paths/Bridges/TE_Bridge_1x2.Folktails",
+      "Knatte/Buildings/Paths/Bridges/TE_Bridge_1x3.Folktails",
+      "Knatte/Buildings/Paths/Bridges/TE_Bridge_1x4.Folktails",
+      "Knatte/Buildings/Paths/Bridges/TE_Bridge_1x5.Folktails",
+      "Knatte/Buildings/Paths/Bridges/TE_Bridge_1x6.Folktails",
+      "Knatte/Buildings/Paths/FullBridges/TE_BridgeF_1x7.Folktails",
+      "Knatte/Buildings/Paths/FullBridges/TE_BridgeF_1x8.Folktails",
+      "Knatte/Buildings/Paths/FullBridges/TE_BridgeF_1x9.Folktails",
+      "Knatte/Buildings/Paths/FullBridges/TE_BridgeF_1x10.Folktails",
+      // "Knatte/Buildings/Paths/MetalPlatforms/MetalPillar.Folktails",
+      // "Knatte/Buildings/Paths/MetalPlatforms/MetalPillars.Folktails",
+      // "Knatte/Buildings/Paths/MetalPlatforms/MetalPlatform_1.Folktails",
+      // "Knatte/Buildings/Paths/MetalPlatforms/MiddleOverhang3x1.Folktails",
+      // "Knatte/Buildings/Paths/MetalPlatforms/MiddleOverhang4x1.Folktails",
+      // "Knatte/Buildings/Paths/MetalPlatforms/MiddleOverhang5x1.Folktails",
+      // "Knatte/Buildings/Paths/MetalPlatforms/MiddleOverhang7x1.Folktails",
+      // "Knatte/Buildings/Paths/MetalPlatforms/ArcOverhang3x1.Folktails",
+      // "Knatte/Buildings/Paths/MetalPlatforms/ArcOverhang4x1.Folktails",
+      // "Knatte/Buildings/Paths/MetalPlatforms/ArcOverhang5x1.Folktails",
+      // "Knatte/Buildings/Paths/MetalPlatforms/ArcOverhang6x1.Folktails",
+      // "Knatte/Buildings/Paths/MetalPlatforms/MetalBigPillarBase.Folktails",
+      // "Knatte/Buildings/Paths/MetalPlatforms/MetalBigPillarMid.Folktails",
+      // "Knatte/Buildings/Paths/MetalPlatforms/MetalBigPillarTop.Folktails",
+      // "Knatte/Buildings/Paths/MetalPlatforms/MetalPlatform5x3.Folktails",
+
+      // "Knatte/Buildings/Paths/MetalPlatforms/Aque_MetalBigPillarBase.Folktails",
+      // "Knatte/Buildings/Paths/MetalPlatforms/Aque_MetalBigPillarMid.Folktails",
+      // "Knatte/Buildings/Paths/MetalPlatforms/Aque_MetalBigPillarTop.Folktails",
+      //water extension
+      "Knatte/Buildings/Power/LargeWaterWheelLevee/LargeWaterWheelLevee.IronTeeth",
+      "Knatte/Buildings/Power/PowerLevee/PowerLevee.IronTeeth",
+      "Knatte/Buildings/Power/PowerLevee/UPowerLevee.IronTeeth",
+      "Knatte/Buildings/Power/Turbine/TurbineSmall.IronTeeth",
+      //floodgate
+      // "Knatte/Buildings/WaterAlarm/WaterAlarm.IronTeeth",
+      // "Knatte/Buildings/WaterAlarm/WaterAlarm_11.IronTeeth",
+      // "Knatte/Buildings/Floodgates/MetalFloodgate2.IronTeeth",
+      // "Knatte/Buildings/Floodgates/MetalFloodgate3.IronTeeth",
+      // "Knatte/Buildings/Floodgates/MetalFloodgate4.IronTeeth",
+      // "Knatte/Buildings/Floodgates/MetalFloodgate5.IronTeeth",
+      // "Knatte/Buildings/Floodgates/MetalFloodgate6.IronTeeth",
+      // "Knatte/Buildings/Floodgates/MetalFloodgate7.IronTeeth",
+      // "Knatte/Buildings/Floodgates/MetalFloodgate8.IronTeeth",
+      // "Knatte/Buildings/Floodgates/MetalFloodgate9.IronTeeth",
+      // "Knatte/Buildings/Floodgates/MetalFloodgate10.IronTeeth",
+      //base game
+      "Buildings/Wood/WoodWorkshop/WoodWorkshop.Folktails",
+      "Buildings/Power/LargeWaterWheel/LargeWaterWheel.IronTeeth",
+      //flywheel
+      // "Battery.Flywheels/Prefabs/SmallFlywheel.Folktails",
+      // "Battery.Flywheels/Prefabs/MediumFlywheel.Folktails",
+      // "Battery.Flywheels/Prefabs/LargeFlywheel.Folktails",
+      // "Battery.Flywheels/Prefabs/SmallHorizontalFramedFlywheel.Folktails",
+      // "Battery.Flywheels/Prefabs/MediumHorizontalFramedFlywheel.Folktails",
+      // "Battery.Flywheels/Prefabs/LargeHorizontalFramedFlywheel.Folktails",
+      // "Battery.Flywheels/Prefabs/SmallVerticalFramedFlywheel.Folktails",
+      // "Battery.Flywheels/Prefabs/MediumVerticalFramedFlywheel.Folktails",
+      // "Battery.Flywheels/Prefabs/LargeVerticalFramedFlywheel.Folktails",
+      // "Battery.Flywheels/Prefabs/MediumHorizontalJunction.Folktails",
+      // "Battery.Flywheels/Prefabs/LargeHorizontalJunction.Folktails",
+
+      "Buildings/Power/PowerLinePylon/PowerLinePylon.Folktails",
+      "Buildings/Power/PowerLineBeam/PowerLineBeam.Folktails"
+    ]
+  }
+}

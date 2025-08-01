@@ -1,0 +1,36 @@
+{
+	"BuildingPrefabMaterialPatchSpec": {
+		"FactionID": "Emberpelts",
+		"PrefabName": "PowerLinePylon.Folktails",
+		"MaterialEntries": [
+			{
+				"MaterialName": "BaseWood_Brown.Folktails",
+				"NewMaterialName": "BaseWood_Brown.Emberpelts"
+			},
+			{
+				"MaterialName": "WindowsAtlas.Folktails",
+				"NewMaterialName": "WindowsAtlas.Emberpelts"
+			},
+			{
+				"MaterialName": "BaseMetal.Folktails",
+				"NewMaterialName": "BaseMetal.Emberpelts"
+			},
+			{
+				"MaterialName": "IrregularPlanks_Brown.Folktails",
+				"NewMaterialName": "IrregularPlanks_Brown.Emberpelts"
+			},
+			{
+				"MaterialName": "BaseWood_White.Folktails",
+				"NewMaterialName": "BaseWood_White.Emberpelts"
+			},
+			{
+				"MaterialName": "PlasteredWood_White.Folktails",
+				"NewMaterialName": "Plaster_White.Emberpelts"
+			},
+			{
+				"MaterialName": "IrregularPlanks_LightBrown.Folktails",
+				"NewMaterialName": "IrregularPlanks_White.Emberpelts"
+			}
+		]
+	}
+}

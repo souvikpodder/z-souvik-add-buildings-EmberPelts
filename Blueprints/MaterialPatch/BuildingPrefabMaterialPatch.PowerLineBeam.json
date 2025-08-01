@@ -1,0 +1,20 @@
+{
+  "BuildingPrefabMaterialPatchSpec": {
+    "FactionID": "Emberpelts",
+    "PrefabName": "PowerLineBeam.Folktails",
+    "MaterialEntries": [
+	    { 
+	    	"MaterialName": "BaseWood_Brown.Folktails",
+		    "NewMaterialName": "BaseWood_Brown.Emberpelts"
+	    },
+		{ 
+	    	"MaterialName": "WindowsAtlas.Folktails",
+		    "NewMaterialName": "WindowsAtlas.Emberpelts"
+	    },
+	    { 
+	        "MaterialName": "BaseMetal.Folktails",
+	        "NewMaterialName": "BaseMetal.Emberpelts"
+	    }
+    ]
+  }
+}
