@@ -1,0 +1,72 @@
+{
+	"BuildingPrefabMaterialPatchSpec": {
+		"FactionID": "Emberpelts",
+		"PrefabName": "LargeWaterWheel.IronTeeth",
+		"MaterialEntries": [
+			{
+				"MaterialName": "WindowsAtlas.IronTeeth",
+				"NewMaterialName": "WindowsAtlas.Emberpelts"
+			},
+			{
+				"MaterialName": "RoofPlanks.IronTeeth",
+				"NewMaterialName": "RoofPlanks2.Emberpelts"
+			},
+			{
+				"MaterialName": "PlasteredWood_Orange.IronTeeth",
+				"NewMaterialName": "PlasteredWood.Emberpelts"
+			},
+			{
+				"MaterialName": "Plaster_White.IronTeeth",
+				"NewMaterialName": "Plaster_White.Emberpelts"
+			},
+			{
+				"MaterialName": "Plaster_Orange.IronTeeth",
+				"NewMaterialName": "Plaster.Emberpelts"
+			},
+			{
+				"MaterialName": "Paper.IronTeeth",
+				"NewMaterialName": "Paper.Emberpelts"
+			},
+			{
+				"MaterialName": "PaintedMetal.IronTeeth",
+				"NewMaterialName": "PaintedMetal.Emberpelts"
+			},
+			{
+				"MaterialName": "IrregularPlanks_MetalForged.IronTeeth",
+				"NewMaterialName": "IrregularPlanks_Metal.Emberpelts"
+			},
+			{
+				"MaterialName": "IrregularPlanks_Indigo.IronTeeth",
+				"NewMaterialName": "IrregularPlanks_Red.Emberpelts"
+			},
+			{
+				"MaterialName": "IrregularPlanks_Grey.IronTeeth",
+				"NewMaterialName": "IrregularPlanks_Brown.Emberpelts"
+			},
+			{
+				"MaterialName": "IrregularPlanks_DarkBrown.IronTeeth",
+				"NewMaterialName": "IrregularPlanks_DarkRed.Emberpelts"
+			},
+			{
+				"MaterialName": "Details.IronTeeth",
+				"NewMaterialName": "Details.Emberpelts"
+			},
+			{
+				"MaterialName": "BaseWood_Indigo.IronTeeth",
+				"NewMaterialName": "BaseWood_Brown.Emberpelts"
+			},
+			{
+				"MaterialName": "BaseWood_Grey.IronTeeth",
+				"NewMaterialName": "BaseWood_Red.Emberpelts"
+			},
+			{
+				"MaterialName": "BaseWood_DarkBrown.IronTeeth",
+				"NewMaterialName": "BaseWood_DarkRed.Emberpelts"
+			},
+			{
+				"MaterialName": "BaseMetal.IronTeeth",
+				"NewMaterialName": "BaseMetal.Emberpelts"
+			}
+		]
+	}
+}

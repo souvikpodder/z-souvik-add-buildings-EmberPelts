@@ -26,7 +26,6 @@
       //path extension
       // "Knatte/Buildings/Paths/SmallGate/DecoSmallGate.Folktails",
       // "Knatte/Buildings/Paths/SmallGate/SmallGate.Folktails",
-
       "Knatte/Buildings/Paths/Bridges/TE_Bridge_1x1.Folktails",
       "Knatte/Buildings/Paths/Bridges/TE_Bridge_1x2.Folktails",
       "Knatte/Buildings/Paths/Bridges/TE_Bridge_1x3.Folktails",
@@ -52,14 +51,13 @@
       // "Knatte/Buildings/Paths/MetalPlatforms/MetalBigPillarMid.Folktails",
       // "Knatte/Buildings/Paths/MetalPlatforms/MetalBigPillarTop.Folktails",
       // "Knatte/Buildings/Paths/MetalPlatforms/MetalPlatform5x3.Folktails",
-
       // "Knatte/Buildings/Paths/MetalPlatforms/Aque_MetalBigPillarBase.Folktails",
       // "Knatte/Buildings/Paths/MetalPlatforms/Aque_MetalBigPillarMid.Folktails",
       // "Knatte/Buildings/Paths/MetalPlatforms/Aque_MetalBigPillarTop.Folktails",
       //water extension
-      "Knatte/Buildings/Power/LargeWaterWheelLevee/LargeWaterWheelLevee.IronTeeth",
-      "Knatte/Buildings/Power/PowerLevee/PowerLevee.IronTeeth",
-      "Knatte/Buildings/Power/PowerLevee/UPowerLevee.IronTeeth",
+      // "Knatte/Buildings/Power/LargeWaterWheelLevee/LargeWaterWheelLevee.IronTeeth",
+      // "Knatte/Buildings/Power/PowerLevee/PowerLevee.IronTeeth",
+      // "Knatte/Buildings/Power/PowerLevee/UPowerLevee.IronTeeth",
       "Knatte/Buildings/Power/Turbine/TurbineSmall.IronTeeth",
       //floodgate
       // "Knatte/Buildings/WaterAlarm/WaterAlarm.IronTeeth",
@@ -88,9 +86,9 @@
       // "Battery.Flywheels/Prefabs/LargeVerticalFramedFlywheel.Folktails",
       // "Battery.Flywheels/Prefabs/MediumHorizontalJunction.Folktails",
       // "Battery.Flywheels/Prefabs/LargeHorizontalJunction.Folktails",
-
-      "Buildings/Power/PowerLinePylon/PowerLinePylon.Folktails",
-      "Buildings/Power/PowerLineBeam/PowerLineBeam.Folktails"
+      //PowerLine
+      "Opolame/Buildings/Power/PowerLinePylon/PowerLinePylon.Folktails",
+      "Opolame/Buildings/Power/PowerLineBeam/PowerLineBeam.Folktails"
     ]
   }
 }

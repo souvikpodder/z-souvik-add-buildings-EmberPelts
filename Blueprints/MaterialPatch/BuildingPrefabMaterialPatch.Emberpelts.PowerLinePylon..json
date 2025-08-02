@@ -5,32 +5,32 @@
 		"MaterialEntries": [
 			{
 				"MaterialName": "BaseWood_Brown.Folktails",
-				"NewMaterialName": "BaseWood_Brown.Emberpelts"
+				"NewMaterialName": "BaseWood_Red.Emberpelts",
 			},
 			{
 				"MaterialName": "WindowsAtlas.Folktails",
-				"NewMaterialName": "WindowsAtlas.Emberpelts"
+				"NewMaterialName": "WindowsAtlas.Emberpelts",
 			},
 			{
 				"MaterialName": "BaseMetal.Folktails",
-				"NewMaterialName": "BaseMetal.Emberpelts"
+				"NewMaterialName": "BaseMetal.Emberpelts",
 			},
 			{
 				"MaterialName": "IrregularPlanks_Brown.Folktails",
-				"NewMaterialName": "IrregularPlanks_Brown.Emberpelts"
+				"NewMaterialName": "IrregularPlanks_Brown.Emberpelts",
 			},
 			{
 				"MaterialName": "BaseWood_White.Folktails",
-				"NewMaterialName": "BaseWood_White.Emberpelts"
+				"NewMaterialName": "BaseWood_White.Emberpelts",
 			},
 			{
 				"MaterialName": "PlasteredWood_White.Folktails",
-				"NewMaterialName": "Plaster_White.Emberpelts"
+				"NewMaterialName": "Plaster_White.Emberpelts",
 			},
 			{
 				"MaterialName": "IrregularPlanks_LightBrown.Folktails",
-				"NewMaterialName": "IrregularPlanks_White.Emberpelts"
-			}
+				"NewMaterialName": "IrregularPlanks_DarkRed.Emberpelts",
+			},
 		]
 	}
 }

@@ -1,0 +1,80 @@
+{
+	"BuildingPrefabMaterialPatchSpec": {
+		"FactionID": "Emberpelts",
+		"PrefabName": "WoodWorkshop.Folktails",
+		"MaterialEntries": [
+			{
+				"MaterialName": "BaseWood_Brown.Folktails",
+				"NewMaterialName": "BaseWood_DarkRed.Emberpelts"
+			},
+			{
+				"MaterialName": "WindowsAtlas.Folktails",
+				"NewMaterialName": "WindowsAtlas.Emberpelts"
+			},
+			{
+				"MaterialName": "BaseMetal.Folktails",
+				"NewMaterialName": "BaseMetal.Emberpelts"
+			},
+			{
+				"MaterialName": "IrregularPlanks_Brown.Folktails",
+				"NewMaterialName": "IrregularPlanks_DarkRed.Emberpelts"
+			},
+			{
+				"MaterialName": "PaintedMetal.Folktails",
+				"NewMaterialName": "PaintedMetal.Emberpelts"
+			},
+			{
+				"MaterialName": "BaseWood_Dark.Folktails",
+				"NewMaterialName": "BaseWood_DarkRed.Emberpelts"
+			},
+			{
+				"MaterialName": "BaseWood_White.Folktails",
+				"NewMaterialName": "BaseWood_White.Emberpelts"
+			},
+			{
+				"MaterialName": "IrregularPlanks_Dark.Folktails",
+				"NewMaterialName": "IrregularPlanks_DarkRed.Emberpelts"
+			},
+			{
+				"MaterialName": "IrregularPlanks_White.Folktails",
+				"NewMaterialName": "IrregularPlanks_White.Emberpelts"
+			},
+			{
+				"MaterialName": "IrregularPlanks_Metal.Folktails",
+				"NewMaterialName": "IrregularPlanks_Metal.Emberpelts"
+			},
+			{
+				"MaterialName": "Details.Folktails",
+				"NewMaterialName": "Details.Emberpelts"
+			},
+			{
+				"MaterialName": "Paper.Folktails",
+				"NewMaterialName": "Paper.Emberpelts"
+			},
+			{
+				"MaterialName": "Plaster.Folktails",
+				"NewMaterialName": "Plaster.Emberpelts"
+			},
+			{
+				"MaterialName": "Plaster_White.Folktails",
+				"NewMaterialName": "Plaster_White.Emberpelts"
+			},
+			{
+				"MaterialName": "Plaster_Black.Folktails",
+				"NewMaterialName": "Plaster_Black.Emberpelts"
+			},
+			{
+				"MaterialName": "PlasteredWood.Folktails",
+				"NewMaterialName": "PlasteredWood.Emberpelts"
+			},
+			{
+				"MaterialName": "RoofPlanks2.Folktails",
+				"NewMaterialName": "RoofPlanks2.Emberpelts"
+			},
+			{
+				"MaterialName": "WindowsAtlas2.Folktails",
+				"NewMaterialName": "WindowsAtlas2.Emberpelts"
+			}
+		]
+	}
+}
